@@ -1,0 +1,94 @@
+"","V1","text","option_1","option_2","option_3","option_4","N","Type","Order","Keywords","V11","V12","V13","V14"
+"1","q11","How does the idea of being slapped hard in the face during sex make you feel?","Horrified","Aroused","Nostalgic","Indifferent",28860,"N","","sex/intimacy",1,1,NA,NA
+"2","q27","Which is a bigger deal for you?","Telling someone you really care","Oral sex","","",24749,"O","","sex/intimacy",1,1,NA,NA
+"3","q41","How important is religion/God in your life?","Extremely important","Somewhat important","Not very important","Not at all important",54140,"O","","religion/superstition",1,1,NA,NA
+"4","q45","Do you believe in ghosts?","Yes","No","","",21619,"O","","religion/superstition",1,1,NA,NA
+"5","q70","Do you think homosexuality is a sin?","Yes","No","","",48983,"O","","religion/superstition",1,1,NA,NA
+"6","q71","Is interracial marriage a bad idea?","Yes","No","","",32492,"O","","politics",1,1,NA,NA
+"7","q86","Do you own a gun?","Yes","No","","",25688,"O","","descriptive",1,1,NA,NA
+"8","q134","Do you think women have an obligation to keep their legs shaved?","Yes","No","","",40673,"O","","preference",1,1,NA,NA
+"9","q154","In a certain light, wouldn't nuclear war be exciting?","Yes, it would.","No, it wouldn't.","","",50514,"O","","opinion",1,1,NA,NA
+"10","q174","Communism, in concept:","Good","Bad","Same as capitalism","No idea / this question doesn't interest me",19406,"N","","politics",1,1,NA,NA
+"11","q179","Who's smarter on average?","Men","Women","Neither, they're the same on average","",23841,"O","1, 3, 2","opinion",1,1,NA,NA
+"12","q185","Are you really into Anime (Japanese Animation) movies?","Yes","No","","",23792,"O","","descriptive",1,1,NA,NA
+"13","q192","Do you believe in dinosaurs?","Yes","No","","",19833,"O","","religion/superstition",1,1,NA,NA
+"14","q216","Star Trek: cool or uncool?","Cool","Uncool","","",21756,"O","","opinion",1,1,NA,NA
+"15","q231","Cell phones: good or evil?","Good","Evil","","",16354,"O","","opinion; technology",1,1,NA,NA
+"16","q258","Did America really put a man on the moon?","Yes","No","","",17067,"O","","politics",1,1,NA,NA
+"17","q442","If you don't do anything at all for an entire day, how does that make you feel?","Good","Bad","","",41784,"O","","descriptive",1,1,NA,NA
+"18","q531","Would you rather play Scrabble, go out dancing, or get drunk?","Scrabble","Dancing","Booze","",29621,"N","","preference",1,1,NA,NA
+"19","q1099","Are you smarter than most people?","Yes","No","","",36529,"O","","descriptive; cognitive",1,1,NA,NA
+"20","q31983","Star Wars or Star Trek?","Star Wars","Star Trek","I can't decide.","Neither!",26787,"M","2, 3, 1, [4]","preference",1,1,NA,NA
+"21","q38767","Is it okay for men to wear makeup?","Yes","No","","",29029,"O","","opinion",1,1,NA,NA
+"22","q52789","Which of the following do you consider to be the best explanation for the existence of human life on Earth?","Humans evolved from other species.","Humans were created by a higher power.","Humans were brought to Earth from the stars.","I'm not sure.",21323,"N","","religion/superstition",1,1,NA,NA
+"23","q55980","Would you like to be the supreme ruler of all people on Earth?","Yes.","No.","","",23410,"O","","preference",1,1,NA,NA
+"24","q59442","When you are alone, how often do your own actions make you laugh?","Frequently.","Occasionally.","Rarely.","Never.",19883,"O","","descriptive",1,1,NA,NA
+"25","q60577","Do you ever feel socially awkward?","Yes.","No.","","",20363,"O","","descriptive",1,1,NA,NA
+"26","q62455","Are you a workaholic?","Yes.","No.","","",23967,"O","","descriptive",1,1,NA,NA
+"27","q65937","Imagine that you come home to find a partner pouring red wine all over a stranger's naked body and then licking it off.  Which, if any of the following, would bother you most?","The spilled wine.","The cheating.","The fact that I was not invited to join in.","Actually, this would not bother me.",20214,"N","","sex/intimacy; preference; descriptive",1,1,NA,NA
+"28","q67651","What kind of education did you have growing up?","Private school.","Public school.","Home school.","Some combination of the above.",16767,"N","","descriptive",1,1,NA,NA
+"29","q69912","Other things being equal, would you be more attracted to an artist or a scientist?","Artist","Scientist","","",24827,"O","","preference",1,1,NA,NA
+"30","q71660","If someone described themselves as 'just an average guy/gal', how would this most likely affect your opinion of them?","Positively.","Negatively.","It would depend on other factors.","",19987,"O","2, 3, 1","descriptive",1,1,NA,NA
+"31","q81873","Do you believe that the global flood (Noah's ark) actually happened?","Yes.","No.","","",18794,"O","","religion/superstition",1,1,NA,NA
+"32","q84005","As an adult, have you ever worn a leash and collar in public?","Yes.","No.","","",17412,"O","","descriptive; BDSM",1,1,NA,NA
+"33","q85879","If you could have one of the following psychic powers, which would you choose:","Telepathy (thought-reading).","Telekinesis (move objects without touching them).","Precognition (predict the future).","Mind Control (control other people's minds).",18628,"N","","religion/superstition",1,1,NA,NA
+"34","q170849","Do you Google someone before a first date?","Yes. Knowledge is power!","No. Why spoil the mystery?","","",39621,"O","","descriptive; technology",1,1,NA,NA
+"35","q221106","How often do you tweet?","All the time","Sometimes","Rarely","Never",42923,"O","","descriptive; technology",1,1,NA,NA
+"36","q445141","Which superpower would you rather have?","Flight","Invisibility","","",37000,"N","","preference",1,1,NA,NA
+"37","p_lit","Literary","","","","",25304,"","","",1,1,NA,NA
+"38","p_roman","Romantic","","","","",22509,"","","",1,1,NA,NA
+"39","p_polit","Political","","","","",25375,"","","",1,1,NA,NA
+"40","p_pure","Pure","","","","",29816,"","","",1,1,NA,NA
+"41","p_inde","Independent","","","","",18580,"","","",1,1,NA,NA
+"42","p_kinky","Kinky","","","","",26457,"","","",1,1,NA,NA
+"43","p_sloppy","Sloppy","","","","",20338,"","","",1,1,NA,NA
+"44","p_indie","Indie","","","","",20436,"","","",1,1,NA,NA
+"45","p_arro","Arrogant","","","","",17379,"","","",1,1,NA,NA
+"46","p_ambi","Ambitious","","","","",17978,"","","",1,1,NA,NA
+"47","p_trusting","Trusting","","","","",20116,"","","",1,1,NA,NA
+"48","p_organ","Organized","","","","",17287,"","","",1,1,NA,NA
+"49","p_sexdrive","Sex-driven","","","","",31217,"","","",1,1,NA,NA
+"50","p_artsy","Artsy","","","","",22641,"","","",1,1,NA,NA
+"51","p_scien","Scientific","","","","",24521,"","","",1,1,NA,NA
+"52","p_spon","Spontaneous","","","","",18723,"","","",1,1,NA,NA
+"53","p_explife","Experienced in life","","","","",20009,"","","",1,1,NA,NA
+"54","p_explove","Experienced in love","","","","",18391,"","","",1,1,NA,NA
+"55","p_kind","Kind","","","","",18215,"","","",1,1,NA,NA
+"56","p_friendstrangers","Friendly to strangers","","","","",16434,"","","",1,1,NA,NA
+"57","p_oldfash","Old-fashioned","","","","",29640,"","","",1,1,NA,NA
+"58","p_comp","Competitive","","","","",20552,"","","",1,1,NA,NA
+"59","p_lovedri","Love-driven","","","","",26035,"","","",1,1,NA,NA
+"60","p_sprit","Spiritual","","","","",32553,"","","",1,1,NA,NA
+"61","p_energetic","Energetic","","","","",16167,"","","",1,1,NA,NA
+"62","p_exer","Into exercise","","","","",18423,"","","",1,1,NA,NA
+"63","p_math","Mathematical","","","","",16701,"","","",1,1,NA,NA
+"64","p_geeky","Geeky","","","","",22692,"","","",1,1,NA,NA
+"65","p_adven","Adventurous","","","","",26536,"","","",1,1,NA,NA
+"66","d_astrology_seriosity","Seriousity of astrological sign","","","","",34622,"","","",1,1,NA,NA
+"67","d_education_phase","Education status","","","","",46847,"","","",1,1,NA,NA
+"68","d_gender","Gender","","","","",66365,"","","",1,1,NA,NA
+"69","d_income","Income","","","","",24501,"","","",1,1,NA,NA
+"70","d_religion_type","Religion type","","","","",66365,"","","",1,1,NA,NA
+"71","d_drugs","Drugs","","","","",55697,"","","",1,1,NA,NA
+"72","d_smokes","Smoking","","","","",55090,"","","",1,1,NA,NA
+"73","d_astrology_sign","Astrology sign","","","","",66365,"","","",1,1,NA,NA
+"74","d_country","Country","","","","",66365,"","","",1,1,NA,NA
+"75","d_drinks","Drinking","","","","",56836,"","","",1,1,NA,NA
+"76","d_age","Age","","","","",66365,"","","",1,1,NA,NA
+"77","d_ethnicity","Ethnicity","","","","",55424,"","","",1,1,NA,NA
+"78","d_offspring_current","Children","","","","",21812,"","","",1,1,NA,NA
+"79","d_bodytype","Body type","","","","",54897,"","","",1,1,NA,NA
+"80","d_job","Job","","","","",50565,"","","",1,1,NA,NA
+"81","d_orientation","Sexual orientation","","","","",66365,"","","",1,1,NA,NA
+"82","d_username","Username","","","","",66365,"","","",1,1,NA,NA
+"83","d_languages","Languages spoken","","","","",66352,"","","",1,1,NA,NA
+"84","d_relationship","Relationship","","","","",66365,"","","",1,1,NA,NA
+"85","d_city","City","","","","",66365,"","","",1,1,NA,NA
+"86","d_education_type","Education type","","","","",50923,"","","",1,1,NA,NA
+"87","d_religion_seriosity","Religion seriousness","","","","",27111,"","","",1,1,NA,NA
+"88","lf_want","Type of match","","","","",66365,"","","",1,1,NA,NA
+"89","lf_max_age","Max age of match","","","","",66365,"","","",1,1,NA,NA
+"90","lf_for","Looking for match","","","","",66365,"","","",1,1,NA,NA
+"91","lf_location","Location of match","","","","",66365,"","","",1,1,NA,NA
+"92","lf_min_age","Min age of match","","","","",66365,"","","",1,1,NA,NA
+"93","lf_single","Status of match","","","","",66365,"","","",1,1,NA,NA
